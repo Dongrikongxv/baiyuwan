@@ -1,0 +1,545 @@
+{
+  "name": "白榆湾大学",
+  "version": "1.0.0",
+  "author": "",
+  "baseUrl": "",
+  "defaultMapId": "map_mq6p3b8z",
+  "maps": {
+    "map_mq6p3b8z": {
+      "name": "主地图",
+      "image": "ChatGPT Image 2026年6月9日 22_24_24.png",
+      "pins": [
+        {
+          "id": "pin_mq6qjs6fm6",
+          "name": "惠特莫尔体育场",
+          "x": 19.5,
+          "y": 32.8,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qjtq3jf",
+          "name": "黑尔训练中心",
+          "x": 6.5,
+          "y": 47.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qjukv0h",
+          "name": "贝克训练场",
+          "x": 29.4,
+          "y": 47.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qjvpl08",
+          "name": "河边体育馆",
+          "x": 18.6,
+          "y": 54.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qjw8r68",
+          "name": "新校队楼",
+          "x": 26.5,
+          "y": 59.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qjyrh6b",
+          "name": "Alpha Delta Rho兄弟会",
+          "x": 14.9,
+          "y": 67.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "portal",
+          "targetMapId": "map_mq6qy4o8jr"
+        },
+        {
+          "id": "pin_mq6qjz563p",
+          "name": "Beta Sigma Nu兄弟会",
+          "x": 12.9,
+          "y": 73.2,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qjzl242",
+          "name": "Kappa Tau兄弟会",
+          "x": 10,
+          "y": 78,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qk3410i",
+          "name": "Delta Phi 兄弟会",
+          "x": 6.4,
+          "y": 84.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkavu1t",
+          "name": "mega House兄弟会",
+          "x": 7.7,
+          "y": 89.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkitltr",
+          "name": "南部宿舍洗衣楼",
+          "x": 51.5,
+          "y": 88.5,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkj8nxu",
+          "name": "里德楼",
+          "x": 63.5,
+          "y": 88.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkk0lsw",
+          "name": "卡特楼",
+          "x": 36.9,
+          "y": 87.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkogp23",
+          "name": "南区露天小食堂",
+          "x": 53.9,
+          "y": 80.4,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkpdl1z",
+          "name": "哈珀楼",
+          "x": 41.6,
+          "y": 73.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkpvrrn",
+          "name": "梅森楼",
+          "x": 55.5,
+          "y": 72.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkqjaco",
+          "name": "洛厄尔楼",
+          "x": 67.1,
+          "y": 72.5,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qktt964",
+          "name": "健康与咨询中心",
+          "x": 51.8,
+          "y": 62.4,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkuf9y6",
+          "name": "白榆书店",
+          "x": 51.4,
+          "y": 54.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkvim54",
+          "name": "旧生物温室",
+          "x": 84.4,
+          "y": 61.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkwn6e7",
+          "name": "东校区露天小食堂",
+          "x": 86.2,
+          "y": 50.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkxl0zq",
+          "name": "佩奇设计工作室",
+          "x": 88.6,
+          "y": 43.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qky593q",
+          "name": "摩尔计算楼",
+          "x": 77.7,
+          "y": 34.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qkzbprs",
+          "name": "肯德尔工程中心",
+          "x": 82,
+          "y": 26.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6ql0hy2q",
+          "name": "本顿楼",
+          "x": 67.3,
+          "y": 28.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6ql16fbu",
+          "name": "哈里森楼",
+          "x": 42.4,
+          "y": 28.4,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6ql29146",
+          "name": "惠特莫尔图书馆",
+          "x": 40.6,
+          "y": 19.7,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6ql2rzi7",
+          "name": "Old Main行政主楼",
+          "x": 57.2,
+          "y": 11.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6ql3ex2b",
+          "name": "圣安瑟姆礼拜堂",
+          "x": 72.4,
+          "y": 17.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qqq38h9",
+          "name": "去往城里",
+          "x": 95.7,
+          "y": 65,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qtjx4fu",
+          "name": "沃克学生中心",
+          "x": 51.9,
+          "y": 39.2,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qtl14i3",
+          "name": "公地食堂",
+          "x": 50.5,
+          "y": 47,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6rfg5is6",
+          "name": "Main Quad主草坪",
+          "x": 54.9,
+          "y": 20.7,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        }
+      ]
+    },
+    "map_mq6qy4o8jr": {
+      "name": "兄弟会",
+      "image": "ChatGPT Image 2026年6月9日 22_34_04.png",
+      "parentMapId": "map_mq6p3b8z",
+      "pins": [
+        {
+          "id": "pin_mq6qzhj4ge",
+          "name": "二楼休息厅",
+          "x": 46.9,
+          "y": 38,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qzrxs0y",
+          "name": "二楼单人房区域",
+          "x": 28.2,
+          "y": 36.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qztc1fd",
+          "name": "2楼双人间区域",
+          "x": 69,
+          "y": 33.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qztu8bo",
+          "name": "二楼双人间卫生间",
+          "x": 76,
+          "y": 30.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qzwr5mm",
+          "name": "二楼单人间卫生间",
+          "x": 17.2,
+          "y": 34.7,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qzypke6",
+          "name": "三楼休息区",
+          "x": 47.1,
+          "y": 18.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6qzzlcbs",
+          "name": "3楼单人房区域",
+          "x": 31.7,
+          "y": 19.2,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r00swfs",
+          "name": "3楼大单人房区域",
+          "x": 65.8,
+          "y": 16,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r01hcuv",
+          "name": "3楼公共卫生间",
+          "x": 15.9,
+          "y": 17.2,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r04hdn1",
+          "name": "Julian的房间",
+          "x": 86,
+          "y": 14.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r09pmcf",
+          "name": "一楼厨房",
+          "x": 79.8,
+          "y": 46,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r0hsahl",
+          "name": "一楼储物间",
+          "x": 93.6,
+          "y": 50.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r13zszr",
+          "name": "前院",
+          "x": 70.2,
+          "y": 67.1,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r17vkos",
+          "name": "后院",
+          "x": 93.3,
+          "y": 29.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1dg8px",
+          "name": "地下健身房",
+          "x": 68.6,
+          "y": 82.6,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1dxck6",
+          "name": "地下派对区",
+          "x": 51.6,
+          "y": 82.4,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1ey0v7",
+          "name": "地下台球区",
+          "x": 33.6,
+          "y": 82,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1fhckg",
+          "name": "地下电视室",
+          "x": 18.3,
+          "y": 80.7,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1fxc8x",
+          "name": "地下储物间",
+          "x": 23.7,
+          "y": 89.4,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1gr4ny",
+          "name": "新点位",
+          "x": 48.7,
+          "y": 90.9,
+          "desc": "地下洗衣房",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r1ms8h0",
+          "name": "正门",
+          "x": 52,
+          "y": 62.3,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r3po8w0",
+          "name": "一楼餐厅",
+          "x": 65.1,
+          "y": 49.9,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r3q8o0q",
+          "name": "一楼门厅",
+          "x": 46.9,
+          "y": 50.2,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r3qmg5b",
+          "name": "一楼客厅",
+          "x": 32.6,
+          "y": 51.4,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        },
+        {
+          "id": "pin_mq6r3qygfu",
+          "name": "一楼图书馆",
+          "x": 19.5,
+          "y": 51.8,
+          "desc": "",
+          "color": "#6b8e7f",
+          "type": "location"
+        }
+      ]
+    }
+  }
+}
